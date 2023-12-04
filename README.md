@@ -1,4 +1,3 @@
-# dankodinh-fe23-js1-mp2-Danny-Dinh
 # Sten-Sax-Påse Spel
 
 ## Beskrivning
